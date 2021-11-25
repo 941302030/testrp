@@ -41,3 +41,43 @@
 
 ![sp1.png](https://i.loli.net/2021/11/25/u7aX2Kd4VyC1Yvk.jpg)
 ![测试图片.png](https://i.loli.net/2021/11/25/Sf3zXkbQ5dURlZO.png)
+
+在文章中插入特定代码段
+
+```bash
+sudo apt-get install git
+```
+
+```c
+#include <stdio.h>
+#include <stdlib.h>
+#include <unistd.h>
+
+int main(void)
+{
+	printf("c 语言测试代码..\n");
+	return 0;
+}
+```
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main(void)
+{
+	cout << "测试数据" << endl;
+}
+```
+
+```python
+import os
+
+def self_main():
+	file_list = os.listdir(backup.dir)
+	return file_list
+```
+
+```java
+	一段java测试代码
+```
