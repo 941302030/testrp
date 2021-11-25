@@ -36,3 +36,8 @@
 
 [1]:https://github.com "Github官网"
 [2]:https://git-scm.com/downloads "Git下载"
+
+测试插入本地图片
+
+![sp1.png](https://i.loli.net/2021/11/25/u7aX2Kd4VyC1Yvk.jpg)
+![测试图片.png](https://i.loli.net/2021/11/25/Sf3zXkbQ5dURlZO.png)
